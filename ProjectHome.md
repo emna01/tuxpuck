@@ -1,0 +1,1 @@
+Tuxpuck is a "shufflepuck" game written in C using SDL. The player moves a pad around a board and tries to shoot the puck down through the opponent's defense.
